@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/li4-boot.svg" alt="li4 — linux boot" width="860" />
+<img src="assets/li4-mono.svg" alt="li4 — linux boot" width="860" />
 
 <br>
 
