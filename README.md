@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="the-li4 — terminal banner" width="860" />
+<img src="assets/banner.svg" alt="Li4 — terminal banner" width="860" />
 
 <br>
 
@@ -8,8 +8,8 @@
 
 **DevOps Engineer · Python Developer**
 
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)](https://github.com/the-li4?achievement=quickdraw&tab=achievements)
-[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/the-li4?achievement=yolo&tab=achievements)
+<a href="https://github.com/the-li4?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" alt="Quickdraw" width="42" /></a>&nbsp;&nbsp;
+<a href="https://github.com/the-li4?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="42" /></a>
 
 </div>
 
@@ -27,14 +27,8 @@
 
 ### Achievements
 
-<div align="center">
-
-| Quickdraw | YOLO |
-|:---------:|:----:|
-| [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)](https://github.com/the-li4?achievement=quickdraw&tab=achievements) | [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/the-li4?achievement=yolo&tab=achievements) |
-| Closed an issue in under 5 minutes | Merged a PR without review |
-
-</div>
+- <a href="https://github.com/the-li4?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" alt="Quickdraw" width="32" /></a> &nbsp;**Quickdraw** — closed an issue in under 5 minutes
+- <a href="https://github.com/the-li4?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="32" /></a> &nbsp;**YOLO** — merged a pull request without review
 
 ---
 
