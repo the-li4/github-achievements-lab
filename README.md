@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/li4-boot.svg" alt="Li4 — terminal boot sequence" width="860" />
+<img src="assets/li4-glass.svg" alt="Li4 — terminal boot sequence" width="860" />
 
 <br>
 
