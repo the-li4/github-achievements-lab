@@ -92,3 +92,6 @@ so nobody has to remember to run it.
 <div align="center">
 <sub>Rendered from <code>li4</code> · built with <code>gh</code> &amp; <code>git</code></sub>
 </div>
+## Credits
+
+Maintained together with the community.
