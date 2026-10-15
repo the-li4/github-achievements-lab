@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Li4 — terminal banner" width="860" />
+<img src="assets/li4-banner.svg" alt="Li4 — terminal banner" width="860" />
 
 <br>
 
